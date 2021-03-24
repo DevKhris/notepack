@@ -1,6 +1,7 @@
+![NotePack](https://github.com/DevKhris/notepack/blob/main/public/images/logo_notepack.png?raw=true)
+
 ## About Notepack
 
-![NotePack]('public/images/logo_notepack.png')
 NotePack is a Note Taking Management System developed with Laravel
 
 ## Getting Started
